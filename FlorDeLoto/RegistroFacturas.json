@@ -1,0 +1,34 @@
+[
+  {
+    "numeroFactura": "02",
+    "fechaFactura": "25 octubre",
+    "propietario": "elena",
+    "numeroDocumento": "111",
+    "propiedad": "215",
+    "valorMetroCuadrado": "30000",
+    "fechaMaxPago": "15 noviembre",
+    "totalPagar": "2000000"
+  },
+  {
+    "numeroFactura": "01",
+    "fechaFactura": "25 octubre",
+    "propietario": "Juan",
+    "numeroDocumento": "1212",
+    "propiedad": "201",
+    "valorMetroCuadrado": "15000",
+    "valorAdministracion": "20000",
+    "fechaMaxPago": "25 noviembre",
+    "totalPagar": "100000"
+  },
+  {
+    "numeroFactura": "03",
+    "fechaFactura": "ñ",
+    "propietario": "ñ",
+    "numeroDocumento": "3333333333",
+    "propiedad": "ñ",
+    "valorMetroCuadrado": "5000",
+    "valorAdministracion": "200000",
+    "fechaMaxPago": "ñ",
+    "totalPagar": "2000000"
+  }
+]

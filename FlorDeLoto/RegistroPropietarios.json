@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "karina",
+    "tipoDocumento": "Cédula",
+    "numeroDocumento": "1086894242",
+    "edad": "19",
+    "email": "karina@gmail.com",
+    "celular": "322",
+    "propiedad": "210",
+    "ocupacion": "estudiante"
+  },
+  {
+    "nombre": "carla",
+    "tipoDocumento": "Cédula",
+    "numeroDocumento": "111",
+    "edad": "25",
+    "email": "carla123",
+    "celular": "123",
+    "propiedad": "209",
+    "ocupacion": "profesora"
+  },
+  {
+    "nombre": "josé",
+    "tipoDocumento": "Cédula",
+    "numeroDocumento": "222",
+    "edad": "28",
+    "email": "jose123",
+    "celular": "234",
+    "propiedad": "211",
+    "ocupacion": "ingeniero"
+  }
+]

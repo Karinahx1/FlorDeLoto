@@ -1,0 +1,35 @@
+[
+  {
+    "codigoMulta": "0002",
+    "fechaMulta": "25 octubre",
+    "persona": "carla",
+    "numeroDocumento": "333",
+    "lugarInfraccion": "gimnasio",
+    "fechaInfraccion": "20 octubre",
+    "descripcion": "pelea",
+    "fechaMaxPago": "25 noviembre",
+    "totalPagar": "150000"
+  },
+  {
+    "codigoMulta": "",
+    "fechaMulta": "",
+    "persona": "",
+    "numeroDocumento": "",
+    "lugarInfraccion": "",
+    "fechaInfraccion": "",
+    "descripcion": "",
+    "fechaMaxPago": "",
+    "totalPagar": ""
+  },
+  {
+    "codigoMulta": "ñ",
+    "fechaMulta": "ñ",
+    "persona": "ñ",
+    "numeroDocumento": "ñ",
+    "lugarInfraccion": "ñ",
+    "fechaInfraccion": "ñ",
+    "descripcion": "ñ",
+    "fechaMaxPago": "ñ",
+    "totalPagar": "ñ"
+  }
+]
